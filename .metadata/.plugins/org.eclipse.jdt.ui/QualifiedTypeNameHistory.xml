@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="android.graphics.pdf.PdfDocument"/>
+<fullyQualifiedTypeName name="android.graphics.pdf.PdfDocument.PageInfo"/>
+<fullyQualifiedTypeName name="android.graphics.pdf.PdfDocument.Page"/>
+<fullyQualifiedTypeName name="android.graphics.Rect"/>
+</qualifiedTypeNameHistroy>

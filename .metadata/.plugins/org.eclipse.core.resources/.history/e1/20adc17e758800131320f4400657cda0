@@ -39,7 +39,6 @@ public class MainActivity extends Activity implements OnClickListener
 		{
 			case R.id.view_pdf_button:
 			{
-				//https://code.google.com/p/apv/
 				Toast.makeText(this,"Catalogue Loading", Toast.LENGTH_SHORT).show();
 			}
 		}
