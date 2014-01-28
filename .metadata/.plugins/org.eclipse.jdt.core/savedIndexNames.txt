@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Jake\Documents\GitHub\NAITCapstoneArtegoAndroid\.metadata\.plugins\org.eclipse.jdt.core
+3295206737.index
+2576726980.index
+1955816213.index
